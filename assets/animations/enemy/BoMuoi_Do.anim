@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "BoMuoi_Do",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3333333333333333,
+  "sample": 15,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b8a338ee-f2d2-45da-9a92-5dc34b99a681"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "fddaac40-a9e1-4baa-a858-c8d742919e21"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "bd88a823-d13e-4f4d-ba42-fab5d56f2d8c"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "9a71d3ca-9880-47fb-9fa6-b5e1071fb922"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "deef3070-be45-4101-aa64-8d7a1ac2a2e4"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

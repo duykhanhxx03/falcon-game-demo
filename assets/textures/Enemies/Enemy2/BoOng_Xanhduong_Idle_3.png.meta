@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "3cebf232-e8e1-44a4-a0b7-78cb71880e4f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 40,
+  "height": 42,
+  "platformSettings": {},
+  "subMetas": {
+    "BoOng_Xanhduong_Idle_3": {
+      "ver": "1.0.6",
+      "uuid": "3e720e8e-ead1-41e2-872c-ba3d855b7200",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "3cebf232-e8e1-44a4-a0b7-78cb71880e4f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 1.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 40,
+      "height": 37,
+      "rawWidth": 40,
+      "rawHeight": 42,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

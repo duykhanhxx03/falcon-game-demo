@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "BoMuoi_Xanhla",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3333333333333333,
+  "sample": 15,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "31bee622-866e-4cdc-b4bb-cf10e90b6832"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "2b076695-fbda-4cf7-b021-1b56ae9ca342"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "439e939e-a261-4ab7-adf8-03375fa84e19"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "47a0db2a-0d96-4921-ac1b-781f17fde8f5"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "0a1540e6-e6d1-458c-87a0-53e033abfc23"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

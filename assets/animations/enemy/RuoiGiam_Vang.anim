@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "RuoiGiam_Vang",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3333333333333333,
+  "sample": 15,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a4867f21-7074-446c-997c-119984c89dbb"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "08ec3f6a-fab4-4921-9398-90d090538e0f"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "529889a3-9838-4169-bb7c-e64fb8ce432e"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "8635d88e-fdae-41ec-9822-cd85ef828a99"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "10e46f34-7d9a-410c-bd14-c3f4c06575e1"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

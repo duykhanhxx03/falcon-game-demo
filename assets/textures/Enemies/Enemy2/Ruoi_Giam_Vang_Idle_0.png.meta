@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0278f530-d351-4059-ab14-80bc388c4d34",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 45,
+  "height": 51,
+  "platformSettings": {},
+  "subMetas": {
+    "Ruoi_Giam_Vang_Idle_0": {
+      "ver": "1.0.6",
+      "uuid": "a4867f21-7074-446c-997c-119984c89dbb",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0278f530-d351-4059-ab14-80bc388c4d34",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 3.5,
+      "trimX": 2,
+      "trimY": 1,
+      "width": 41,
+      "height": 42,
+      "rawWidth": 45,
+      "rawHeight": 51,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

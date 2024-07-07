@@ -1,0 +1,120 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "player_lv2_bounce_in",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4666666666666667,
+  "sample": 15,
+  "speed": 0.7,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "edc7b5c7-dc33-4b72-8b2c-ee058a4ba1a6"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "2480e67d-402f-470d-8a24-0fe0dc7699e0"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "bd46a607-a346-4aa0-80a8-3f8806712394"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "729270a4-833b-4134-a6c2-47eee20c74e1"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "b035dabe-ef67-481a-b4da-d8a79855e0c9"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "b9f4f77e-da12-4696-8aad-0d9f7d0eb114"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0.6,
+            "y": 0.6,
+            "z": 1
+          }
+        },
+        {
+          "frame": 0.06666666666666667,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 1.2,
+            "y": 1.2,
+            "z": 1
+          }
+        },
+        {
+          "frame": 0.13333333333333333,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 1.8,
+            "y": 1.8,
+            "z": 1
+          }
+        },
+        {
+          "frame": 0.26666666666666666,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 1.2,
+            "y": 1.2,
+            "z": 1
+          },
+          "curve": "linear"
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0.9,
+            "y": 0.9,
+            "z": 1
+          }
+        },
+        {
+          "frame": 0.4,
+          "value": {
+            "__type__": "cc.Vec3",
+            "x": 0.6,
+            "y": 0.6,
+            "z": 1
+          }
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0.13333333333333333,
+      "func": "",
+      "params": []
+    }
+  ]
+}

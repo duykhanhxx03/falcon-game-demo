@@ -1,0 +1,67 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "RuoiOng_Xanhla",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5333333333333333,
+  "sample": 15,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0116e567-4824-4d5d-8820-524aa08b7e3b"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "1dc653c4-e5b0-48d5-9dd0-d4547fc21890"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "3967f737-1699-4e22-8df9-1ea88534b913"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "063d628f-7398-4584-8156-de8697ff01b7"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "f55ba918-a79d-424a-aa25-b94eb961287c"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "9668c010-0fe9-4423-aced-a9c2bc6b3b77"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "8bdc9ce1-a6bb-4715-925e-a47b253dc763"
+            }
+          },
+          {
+            "frame": 0.4666666666666667,
+            "value": {
+              "__uuid__": "2d705abd-b5a1-4fae-a558-052bf10c33f6"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

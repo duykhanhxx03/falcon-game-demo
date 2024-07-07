@@ -1,0 +1,67 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "RuoiOng_Do",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5333333333333333,
+  "sample": 15,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "97785ea4-e35d-429a-a881-d6ed98d6dc48"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "aee2335e-1029-46fd-b036-f150712ac83e"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "0ef8abee-c0b2-4773-b4ea-f77676d8881e"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "2a987713-cf29-4482-9f64-2c1aab44c988"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "986c253f-4e55-4b35-8f35-f799e43deff8"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "0e65a3c4-5edc-49f2-b193-484d983d4cf1"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "ccadc950-3cd8-455e-851d-9e64ed736e6a"
+            }
+          },
+          {
+            "frame": 0.4666666666666667,
+            "value": {
+              "__uuid__": "6deee549-04b7-418c-afc4-b9d829cedda3"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
